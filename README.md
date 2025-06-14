@@ -138,6 +138,8 @@
 > &nbsp;&nbsp;&nbsp;&nbsp;• Features a personal blog system, project showcase, and custom theming.  
 > &nbsp;&nbsp;&nbsp;&nbsp;• Structured with `_layouts`, `_posts`, `_sass`, and deployed via **GitHub Pages**.  
 > &nbsp;&nbsp;&nbsp;&nbsp;• Main languages: HTML, SCSS, JavaScript.
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;🔗 **Repository:** [github.com/zh13u/zh13u.github.io](https://github.com/zh13u/zh13u.github.io)
 
 > #### 📘 CTDL_GT — Final Project  
 > &nbsp;&nbsp;&nbsp;&nbsp;A course project focused on **data structures and algorithms** using C++.  
@@ -145,6 +147,8 @@
 > &nbsp;&nbsp;&nbsp;&nbsp;• Includes student `management`, `search`, and `sorting` features.  
 > &nbsp;&nbsp;&nbsp;&nbsp;• Uses `.csv` for student data and `.txt` for form templates.  
 > &nbsp;&nbsp;&nbsp;&nbsp;• Final assignment collaboration with **6 contributors**.
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;🔗 **Repository:** [github.com/zh13u/CTDL_GT](https://github.com/zh13u/CTDL_GT)
 
 > #### 🤖 ChessBotAI  
 > &nbsp;&nbsp;&nbsp;&nbsp;A Python-based chess AI that can play and analyze moves.  
