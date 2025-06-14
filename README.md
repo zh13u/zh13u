@@ -153,7 +153,6 @@
 🔒 **Current Focus Areas:**
 - Network Security & Ethical Hacking
 - Web Development & Security Testing
-- Digital Forensics & Incident Response
 
 🤝 **Looking to collaborate on:**
 - Security research projects
