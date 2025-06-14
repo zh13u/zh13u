@@ -1,8 +1,8 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm z13u<img src="./svg/blink-cursor.svg" alt="cursor" style="display: inline; vertical-align: baseline; margin-left: 2px;">
 
-## 🚀 About Me
-- 🔭 I'm a Cybersecurity Enthusiast
-- 🌱 Currently learning about Network Security and Ethical Hacking
+## 👨‍💻 About Me
+- 🎯 I'm a Cybersecurity Enthusiast
+- 📚 Currently learning about Network Security and Ethical Hacking
 - 💡 Passionate about protecting digital assets and information
 - 🤝 Looking to collaborate on security research and projects
 
@@ -14,7 +14,7 @@
     <img src="./images/chart.png" width="400" alt="Programming Languages Pie Chart"/>
 </p>
 
-### 🔒 Security Tools: 
+### 🔐 Security Tools: 
 
 * Wireshark
 * Nmap
@@ -22,12 +22,12 @@
 * Tool-Pentesting in Kali Linux
 * And more...
 
-### 💾 Operating Systems: 
+### 💽 Operating Systems: 
 
 * Linux (Ubuntu, Kali Linux)
 * Windows
 
-### 🎯 Learning Platforms:
+### 📖 Learning Platforms:
 
 * [TryHackMe](https://tryhackme.com)
 * [HackTheBox](https://www.hackthebox.com)
@@ -38,39 +38,37 @@
 * [WebHacking](https://webhacking.kr)
 * [CTFTime](https://ctftime.org/)
 
-### 🔍 Areas of Interest:
+### 🎯 Areas of Interest:
 
 * Web Application Security
 * Penetration Testing
 * Digital Forensics
 * Web Development
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zh13u&show_icons=true&theme=radical)
 
-## 🌟 Top Languages
+## 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zh13u&layout=compact&theme=radical)
 
-## 📫 How to Reach Me
+## 📬 How to Reach Me
 
 * 📧 Email: lqhieu110604@gmail.com
 * 💼 LinkedIn: [quanghieula](https://www.linkedin.com/in/quanghieula)
 * 🌐 Website: [zh13u.github.io](https://zh13u.github.io)
 
-## 🚀 Repositories
+## 📂 Repositories
+
 - 🌐 Personal Website: [zh13u.github.io](https://zh13u.github.io)
   - Built with HTML, CSS, JavaScript
   - Deployed on GitHub Pages
   - Features: [Add your website features here]
 
-<img src="./svg/timeline.svg" width="220" alt="Repositories Timeline"/>
-
 ## ⭐ Fun Facts
-- Always practicing responsible disclosure
-- Love solving CTF challenges
-- Contributing to security research
 
-
+- 🔒 Always practicing responsible disclosure
+- 🎮 Love solving CTF challenges
+- 🤝 Contributing to security research
 
 ---
  From [zh13u](https://github.com/zh13u)
