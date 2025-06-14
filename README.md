@@ -31,7 +31,7 @@
 
 ## 📫 How to Reach Me
 - 📧 Email: [Your email]
-- 💼 LinkedIn: [Your LinkedIn]
+- 💼 LinkedIn: [quanghieula](https://www.linkedin.com/in/quanghieula)
 - 🌐 Website: [zh13u.github.io](https://zh13u.github.io)
 
 ## 🚀 Projects
