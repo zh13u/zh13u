@@ -8,19 +8,12 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/quanghieula/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
   
-  <a href="mailto:lqhieu110604@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quanghieula/)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1036430152801980477)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lqhieu110604@gmail.com)
   
-  <a href="https://zh13u.github.io" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo" />
-  </a>
-</div><br>
-
+</div>
 
 ---
 
@@ -508,8 +501,6 @@
 </div>
 
 ### 🔐 Security-First Development | 🤖 AI-Powered Solutions | 🛡️ Ethical Hacking
-
----
 
 <div align="center">
   
