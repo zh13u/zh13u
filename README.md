@@ -133,7 +133,6 @@
 
 ## 📂 Notable Repositories
 
-
 > #### 🌐 Personal Website: [zh13u.github.io](https://zh13u.github.io)  
 > &nbsp;&nbsp;&nbsp;&nbsp; A `blog` + `portfolio` built with **Jekyll**, using **HTML/CSS/JS**.  
 > &nbsp;&nbsp;&nbsp;&nbsp;• Features a personal blog system, project showcase, and custom theming.  
@@ -146,6 +145,16 @@
 > &nbsp;&nbsp;&nbsp;&nbsp;• Includes student `management`, `search`, and `sorting` features.  
 > &nbsp;&nbsp;&nbsp;&nbsp;• Uses `.csv` for student data and `.txt` for form templates.  
 > &nbsp;&nbsp;&nbsp;&nbsp;• Final assignment collaboration with **6 contributors**.
+
+> #### 🤖 ChessBotAI  
+> &nbsp;&nbsp;&nbsp;&nbsp;A Python-based chess AI that can play and analyze moves.  
+> &nbsp;&nbsp;&nbsp;&nbsp;• Includes separate modules for AI logic, move engine, and game interface.  
+> &nbsp;&nbsp;&nbsp;&nbsp;• Uses object-oriented design and custom logic for board evaluation.  
+> &nbsp;&nbsp;&nbsp;&nbsp;• Built with Python, deployed locally for testing.
+> &nbsp;&nbsp;&nbsp;&nbsp;• Final assignment collaboration with **6 contributors**.
+> 
+> &nbsp;&nbsp;&nbsp;&nbsp;🔗 **Repository:** [github.com/stepToBecomeGigachad/ChessBotAI](https://github.com/stepToBecomeGigachad/ChessBotAI)
+
 
 ## ⭐ Fun Facts
 
