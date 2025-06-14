@@ -133,10 +133,12 @@
 
 ## 📂 Notable Repositories
 
-- 🌐 Personal Website: [zh13u.github.io](https://zh13u.github.io)
-  - Built with HTML, CSS, JS
-  - Hosted on GitHub Pages
-  - Blogging + Portfolio
+
+> #### 🌐 Personal Website: [zh13u.github.io](https://zh13u.github.io)
+> &nbsp;&nbsp;&nbsp;&nbsp;• Built with HTML, CSS, JS  
+> &nbsp;&nbsp;&nbsp;&nbsp;• Hosted on GitHub Pages  
+> &nbsp;&nbsp;&nbsp;&nbsp;• Blogging + Portfolio
+
 
 
 ## ⭐ Fun Facts
