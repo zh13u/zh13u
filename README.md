@@ -1,74 +1,150 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm z13u<img src="./svg/blink-cursor.svg" alt="cursor" style="display: inline; vertical-align: baseline; margin-left: 2px;">
 
-## 👨‍💻 About Me
-- 🎯 I'm a Cybersecurity Enthusiast
-- 📚 Currently learning about Network Security and Ethical Hacking
-- 💡 Passionate about protecting digital assets and information
-- 🤝 Looking to collaborate on security research and projects
-
-## 🛠️ Tech Stack & Security Tools
-
-### 💻 Programming:
-
 <p align="center">
-    <img src="./images/chart.png" width="400" alt="Programming Languages Pie Chart"/>
+  <img src="https://komarev.com/ghpvc/?username=zh13u&label=Profile%20views&color=0e75b6&style=flat" alt="zh13u" width="200"/>
 </p>
 
-### 🔐 Security Tools: 
+## 👨‍💻 About Me
+- 🎯 I'm a Cybersecurity & Frontend Development Enthusiast
+- 📚 Currently learning about Network Security, Ethical Hacking, and Web Development
+- 💡 Passionate about protecting digital assets and building secure applications
+- 🤝 Looking to collaborate on security research and open-source projects
 
-* Wireshark
-* Nmap
-* Burp Suite
-* Tool-Pentesting in Kali Linux
-* And more...
 
-### 💽 Operating Systems: 
+## 🧠 Skills & Tools
 
-* Linux (Ubuntu, Kali Linux)
-* Windows
 
-### 📖 Learning Platforms:
+### 🖥️ Programming Languages
+<p align="center">
+  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
+  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
+  <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
+</p>
 
-* [TryHackMe](https://tryhackme.com)
-* [HackTheBox](https://www.hackthebox.com)
-* [Dreamhack](https://dreamhack.io)
-* [PicoCTF](https://picoctf.org)
-* [CookieArena](https://cookiearena.org)
-* [RootMe](https://www.root-me.org)
-* [WebHacking](https://webhacking.kr)
-* [CTFTime](https://ctftime.org/)
+### 🛠️ Frameworks & Platforms
+<p align="center">
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
+  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a>
+  <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></a>
+  <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></a>
+  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
+  <a href="https://jekyllrb.com/"><img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" width="40"/></a>
+  <a href="https://flask.palletsprojects.com/en/stable/"><img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" width="40"/></a>
+</p>
 
-### 🎯 Areas of Interest:
+### 🐧 OS & DevOps
+<p align="center">
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+  <a href="https://www.nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
+</p>
 
-* Web Application Security
-* Penetration Testing
-* Digital Forensics
-* Web Development
+### 🧰 Databases & Others
+<p align="center">
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/></a>
+  <a href="https://graphql.org"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"/></a>
+  <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/></a>
+</p>
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zh13u&show_icons=true&theme=radical)
+### 🔐 Security Tools
 
-## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zh13u&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40"/>
+  </a>
+    
+  <a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://portswigger.net/public/burp-suite-professional-logo-1200w.png" alt="Burp Suite" width="40"/>
+  </a>
+    
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40"/>
+  </a>
+    
+  <a href="https://sqlmap.org/" target="_blank">
+    <img src="https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png" alt="LinEnum" width="40"/>
+  </a>
+</p>
 
-## 📬 How to Reach Me
+## 🎓 Learning Platforms
 
-* 📧 Email: lqhieu110604@gmail.com
-* 💼 LinkedIn: [quanghieula](https://www.linkedin.com/in/quanghieula)
-* 🌐 Website: [zh13u.github.io](https://zh13u.github.io)
+* <a href="https://tryhackme.com" target="_blank">TryHackMe</a>
 
-## 📂 Repositories
+* <a href="https://www.hackthebox.com" target="_blank">HackTheBox</a>
+
+* <a href="https://dreamhack.io" target="_blank">Dreamhack</a>
+
+* <a href="https://picoctf.org" target="_blank">PicoCTF</a>
+
+* <a href="https://cookiearena.org" target="_blank">CookieArena</a>
+
+* <a href="https://www.root-me.org" target="_blank">RootMe</a>
+
+* <a href="https://webhacking.kr" target="_blank">WebHacking</a>
+
+* <a href="https://ctftime.org" target="_blank">CTFTime</a>
+
+---
+
+## 🎯 Areas of Interest
+
+- Web Application Security
+- Penetration Testing
+- Digital Forensics
+- Full-stack Development
+
+
+## 📊 GitHub Stats
+
+### 🧠 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh13u&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+### 🚀 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zh13u&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zh13u&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats"/>
+</div>
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zh13u&theme=darkhub" alt="Trophies"/>
+</p>
+
+
+## 📬 Contact Me
+
+- 📧 Email: lqhieu110604@gmail.com
+- 💼 LinkedIn: [quanghieula](https://www.linkedin.com/in/quanghieula)
+- 🌐 Website: [zh13u.github.io](https://zh13u.github.io)
+
+
+
+## 📂 Notable Repositories
 
 - 🌐 Personal Website: [zh13u.github.io](https://zh13u.github.io)
-  - Built with HTML, CSS, JavaScript
-  - Deployed on GitHub Pages
-  - Features: [Add your website features here]
+  - Built with HTML, CSS, JS
+  - Hosted on GitHub Pages
+  - Blogging + Portfolio
+
 
 ## ⭐ Fun Facts
 
 - 🔒 Always practicing responsible disclosure
-- 🎮 Love solving CTF challenges
-- 🤝 Contributing to security research
+- 🎮 Love solving CTFs and Hack challenges
+- 🧠 Obsessed with learning new tech every day
 
 ---
- From [zh13u](https://github.com/zh13u)
+<p align="center">From <a href="https://github.com/zh13u">zh13u</a> with ❤️</p>
