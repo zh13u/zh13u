@@ -126,10 +126,9 @@
 
 ## 📬 Contact Me
 
-- 📧 Email: lqhieu110604@gmail.com
-- 💼 LinkedIn: [quanghieula](https://www.linkedin.com/in/quanghieula)
-- 🌐 Website: [zh13u.github.io](https://zh13u.github.io)
-
+- <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="16"/> **Email**: [lqhieu110604@gmail.com](mailto:lqhieu110604@gmail.com)  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="16"/> **LinkedIn**: [quanghieula](https://www.linkedin.com/in/quanghieula)  
+- <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="16"/> **Website**: [zh13u.github.io](https://zh13u.github.io)
 
 
 ## 📂 Notable Repositories
