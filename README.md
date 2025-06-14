@@ -1,16 +1,50 @@
-## Hi there 👋
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm z13u
+<img src="svg/blink-cursor.svg" width="20" height="24" />
+## 🚀 About Me
+- 🔭 I'm a Cybersecurity Enthusiast
+- 🌱 Currently learning about Network Security and Ethical Hacking
+- 💡 Passionate about protecting digital assets and information
+- 🤝 Looking to collaborate on security research and projects
 
-<!--
-**zh13u/zh13u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack & Security Tools
+- 💻 Programming: PHP, Java, Python, JavaScript
+- 🔒 Security Tools: Wireshark, Nmap, Metasploit, Burp Suite
+- 💾 Operating Systems: Linux (Ubuntu, Kali Linux), Windows
+- 🎯 Learning Platforms:
+  - [TryHackMe](https://tryhackme.com)
+  - [HackTheBox](https://www.hackthebox.com)
+  - [Dreamhack](https://dreamhack.io)
+  - [PicoCTF](https://picoctf.org)
+  - [CookieArena](https://cookiearena.org)
+  - [RootMe](https://www.root-me.org)
+  - [WebHacking](https://webhacking.kr)
+- 🔍 Areas of Interest:
+  - Web Application Security
+  - Penetration Testing
+  - Digital Forensics
+  - Web Development
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+## 📫 How to Reach Me
+- 📧 Email: [Your email]
+- 💼 LinkedIn: [Your LinkedIn]
+- 🌐 Website: [zh13u.github.io](https://zh13u.github.io)
+
+## 🚀 Projects
+- 🌐 Personal Website: [zh13u.github.io](https://zh13u.github.io)
+  - Built with HTML, CSS, JavaScript
+  - Deployed on GitHub Pages
+  - Features: [Add your website features here]
+
+## ⭐ Fun Facts
+- Always practicing responsible disclosure
+- Love solving CTF challenges
+- Contributing to security research
+
+---
+⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
