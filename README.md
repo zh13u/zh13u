@@ -159,6 +159,14 @@
 > 
 > &nbsp;&nbsp;&nbsp;&nbsp;🔗 **Repository:** [github.com/stepToBecomeGigachad/ChessBotAI](https://github.com/stepToBecomeGigachad/ChessBotAI)
 
+> #### 🛡️ TTCS-report – CVE-2021-4034 (PwnKit Exploit)  
+> &nbsp;&nbsp;&nbsp;&nbsp;A simulation of the **PwnKit (CVE-2021-4034)** exploit for educational purposes.  
+> &nbsp;&nbsp;&nbsp;&nbsp;• Demonstrates privilege escalation via Polkit on Linux systems.  
+> &nbsp;&nbsp;&nbsp;&nbsp;• Includes technical background, exploitation steps, and mitigation.  
+> &nbsp;&nbsp;&nbsp;&nbsp;• Written in Markdown, supported by C code samples and images.
+> 
+> &nbsp;&nbsp;&nbsp;&nbsp;🔗 **Repository:** [github.com/zh13u/TTCS-report](https://github.com/zh13u/TTCS-report)
+
 
 ## ⭐ Fun Facts
 
