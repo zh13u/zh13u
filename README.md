@@ -1,7 +1,10 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there! I'm z13u<img src="./svg/blink-cursor.svg" alt="cursor" style="display: inline; vertical-align: baseline; margin-left: 2px;">
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zh13u&label=Profile%20views&color=0e75b6&style=flat" alt="zh13u" width="200"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=zh13u&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="zh13u" />
+  <img src="https://img.shields.io/github/followers/zh13u?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/badge/Status-Hacking%20The%20Planet-brightgreen?style=for-the-badge" alt="status" />
 </div>
 
 <div align="center">
