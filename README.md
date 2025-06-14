@@ -30,7 +30,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zh13u&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
-- 📧 Email: [Your email]
+- 📧 Email: lqhieu110604@gmail.com
 - 💼 LinkedIn: [quanghieula](https://www.linkedin.com/in/quanghieula)
 - 🌐 Website: [zh13u.github.io](https://zh13u.github.io)
 
@@ -46,4 +46,4 @@
 - Contributing to security research
 
 ---
-⭐️ From [zh13u](https://github.com/zh13u)
+ From [zh13u](https://github.com/zh13u)
