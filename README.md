@@ -1,186 +1,205 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm z13u<img src="./svg/blink-cursor.svg" alt="cursor" style="display: inline; vertical-align: baseline; margin-left: 2px;">
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there! I'm z13u<img src="./svg/blink-cursor.svg" alt="cursor" style="display: inline; vertical-align: baseline; margin-left: 2px;">
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=zh13u&label=Profile%20views&color=0e75b6&style=flat" alt="zh13u" width="200"/>
-</p>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Website&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
+</div>
+
+---
 
 ## 👨‍💻 About Me
-- 🎯 I'm a Cybersecurity & Frontend Development Enthusiast
-- 📚 Currently learning about Network Security, Ethical Hacking, and Web Development
-- 💡 Passionate about protecting digital assets and building secure applications
+
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
+- 🎯 I'm a **Cybersecurity & Frontend Development Enthusiast**
+- 🔒 Passionate about protecting digital assets and building secure applications
+- 📚 Currently learning about **Network Security**, **Ethical Hacking**, and **Web Development**
 - 🤝 Looking to collaborate on security research and open-source projects
+- ⚡ Always practicing responsible disclosure
+- 🎮 Love solving CTFs and Hack challenges
+- 🧠 Obsessed with learning new tech every day
 
+---
 
-## 🧠 Skills & Tools
+## 🛠️ Tech Stack & Tools
 
+### 💻 Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
+</div>
 
-### 🖥️ Programming Languages
-<p align="center">
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-  <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
-</p>
+### 🚀 Frameworks & Libraries
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwind logo"  />
+</div>
 
-### 🛠️ Frameworks & Platforms
-<p align="center">
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a>
-  <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></a>
-  <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></a>
-  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
-  <a href="https://jekyllrb.com/"><img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" width="40"/></a>
-  <a href="https://flask.palletsprojects.com/en/stable/"><img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" width="40"/></a>
-</p>
-
-### 🐧 OS & DevOps
-<p align="center">
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-  <a href="https://www.nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
-</p>
-
-### 🧰 Databases & Others
-<p align="center">
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/></a>
-  <a href="https://graphql.org"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"/></a>
-  <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/></a>
-</p>
+### 🐧 DevOps & Database
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="graphql logo"  />
+</div>
 
 ### 🔐 Security Tools
-
-<p align="center">
+<div align="center">
   <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="50"/>
   </a>
-    
+  <img width="12" />
   <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://portswigger.net/public/burp-suite-professional-logo-1200w.png" alt="Burp Suite" width="40"/>
+    <img src="https://portswigger.net/public/burp-suite-professional-logo-1200w.png" alt="Burp Suite" width="50"/>
   </a>
-    
+  <img width="12" />
   <a href="https://www.kali.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="50"/>
   </a>
-    
+  <img width="12" />
   <a href="https://sqlmap.org/" target="_blank">
-    <img src="https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png" alt="LinEnum" width="40"/>
+    <img src="https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png" alt="SQLMap" width="50"/>
   </a>
-</p>
+</div>
+
+---
 
 ## 🎓 Learning Platforms
 
-* <a href="https://tryhackme.com" target="_blank">TryHackMe</a>
-
-* <a href="https://www.hackthebox.com" target="_blank">HackTheBox</a>
-
-* <a href="https://dreamhack.io" target="_blank">Dreamhack</a>
-
-* <a href="https://picoctf.org" target="_blank">PicoCTF</a>
-
-* <a href="https://cookiearena.org" target="_blank">CookieArena</a>
-
-* <a href="https://www.root-me.org" target="_blank">RootMe</a>
-
-* <a href="https://webhacking.kr" target="_blank">WebHacking</a>
-
-* <a href="https://ctftime.org" target="_blank">CTFTime</a>
+- 🏴‍☠️ [**TryHackMe**](https://tryhackme.com) - Interactive cybersecurity training
+- 🧊 [**HackTheBox**](https://www.hackthebox.com) - Penetration testing labs
+- 🌙 [**Dreamhack**](https://dreamhack.io) - Security challenges and education
+- 🚩 [**PicoCTF**](https://picoctf.org) - Capture The Flag competitions
+- 🍪 [**CookieArena**](https://cookiearena.org) - Vietnamese security platform
+- 🌿 [**RootMe**](https://www.root-me.org) - Hacking and security challenges
+- 🕸️ [**WebHacking**](https://webhacking.kr) - Web security challenges
+- ⏰ [**CTFTime**](https://ctftime.org) - CTF events and team rankings
 
 ---
 
 ## 🎯 Areas of Interest
 
-- Web Application Security
-- Penetration Testing
-- Digital Forensics
-- Full-stack Development
-
-
-## 📊 GitHub Stats
-
-### 🧠 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh13u&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-### 🚀 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zh13u&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zh13u&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats"/>
-</div>
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zh13u&theme=darkhub" alt="Trophies"/>
-</p>
-
-
-## 📬 Contact Me
-
-- <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="16"/> **Email**: [lqhieu110604@gmail.com](mailto:lqhieu110604@gmail.com)  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="16"/> **LinkedIn**: [quanghieula](https://www.linkedin.com/in/quanghieula)  
-- <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="16"/> **Website**: [zh13u.github.io](https://zh13u.github.io)
-
-
-## 📂 Notable Repositories
-
-> #### 🌐 Personal Website: [zh13u.github.io](https://zh13u.github.io)  
-> &nbsp;&nbsp;&nbsp;&nbsp; A `blog` + `portfolio` built with **Jekyll**, using **HTML/CSS/JS**.  
-> &nbsp;&nbsp;&nbsp;&nbsp;• Features a personal blog system, project showcase, and custom theming.  
-> &nbsp;&nbsp;&nbsp;&nbsp;• Structured with `_layouts`, `_posts`, `_sass`, and deployed via **GitHub Pages**.  
-> &nbsp;&nbsp;&nbsp;&nbsp;• Main languages: HTML, SCSS, JavaScript.
->
-> &nbsp;&nbsp;&nbsp;&nbsp;🔗 **Repository:** [github.com/zh13u/zh13u.github.io](https://github.com/zh13u/zh13u.github.io)
-
-> #### 📘 CTDL_GT — Final Project  
-> &nbsp;&nbsp;&nbsp;&nbsp;A course project focused on **data structures and algorithms** using C++.  
-> &nbsp;&nbsp;&nbsp;&nbsp;• Implements common linked lists: `single`, `double`, and `circular`.  
-> &nbsp;&nbsp;&nbsp;&nbsp;• Includes student `management`, `search`, and `sorting` features.  
-> &nbsp;&nbsp;&nbsp;&nbsp;• Uses `.csv` for student data and `.txt` for form templates.  
-> &nbsp;&nbsp;&nbsp;&nbsp;• Final assignment collaboration with **6 contributors**.
->
-> &nbsp;&nbsp;&nbsp;&nbsp;🔗 **Repository:** [github.com/zh13u/CTDL_GT](https://github.com/zh13u/CTDL_GT)
-
-> #### 🤖 ChessBotAI  
-> &nbsp;&nbsp;&nbsp;&nbsp;A Python-based chess AI that can play and analyze moves.  
-> &nbsp;&nbsp;&nbsp;&nbsp;• Includes separate modules for AI logic, move engine, and game interface.  
-> &nbsp;&nbsp;&nbsp;&nbsp;• Uses object-oriented design and custom logic for board evaluation.  
-> &nbsp;&nbsp;&nbsp;&nbsp;• Built with Python, deployed locally for testing.
-> &nbsp;&nbsp;&nbsp;&nbsp;• Final assignment collaboration with **6 contributors**.
-> 
-> &nbsp;&nbsp;&nbsp;&nbsp;🔗 **Repository:** [github.com/stepToBecomeGigachad/ChessBotAI](https://github.com/stepToBecomeGigachad/ChessBotAI)
-
-> #### 🛡️ TTCS-report – CVE-2021-4034 (PwnKit Exploit)  
-> &nbsp;&nbsp;&nbsp;&nbsp;A simulation of the **PwnKit (CVE-2021-4034)** exploit for educational purposes.  
-> &nbsp;&nbsp;&nbsp;&nbsp;• Demonstrates privilege escalation via Polkit on Linux systems.  
-> &nbsp;&nbsp;&nbsp;&nbsp;• Includes technical background, exploitation steps, and mitigation.  
-> &nbsp;&nbsp;&nbsp;&nbsp;• Written in Markdown, supported by C code samples and images.
-> 
-> &nbsp;&nbsp;&nbsp;&nbsp;🔗 **Repository:** [github.com/zh13u/TTCS-report](https://github.com/zh13u/TTCS-report)
-
-> #### ♻️ Food Traceability System – Product Origin Tracking Platform  
-> &nbsp;&nbsp;&nbsp;&nbsp;A system that leverages **Blockchain technology** to track and verify food supply chain data.  
-> &nbsp;&nbsp;&nbsp;&nbsp;• Composed of three modules: `frontend`, `backend`, and `blockchain`.  
-> &nbsp;&nbsp;&nbsp;&nbsp;• Built with **React + TypeScript** for the frontend and **Python** for the backend.  
-> &nbsp;&nbsp;&nbsp;&nbsp;• Enables transparent and immutable tracking of product origin and movement.
-> 
-> &nbsp;&nbsp;&nbsp;&nbsp;🔗 **Repository:** [github.com/zh13u/NMCNPM](https://github.com/zh13u/NMCNPM)
-
-
-## ⭐ Fun Facts
-
-- 🔒 Always practicing responsible disclosure
-- 🎮 Love solving CTFs and Hack challenges
-- 🧠 Obsessed with learning new tech every day
+- **Web Application Security** - Finding and exploiting web vulnerabilities
+- **Penetration Testing** - Comprehensive security assessments
+- **Digital Forensics** - Investigating security incidents
+- **Full-stack Development** - Building secure and robust applications
 
 ---
-<p align="center">From <a href="https://github.com/zh13u">zh13u</a> with ❤️</p>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zh13u&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh13u&layout=compact&theme=radical&hide_border=false&card_width=320&langs_count=8" height="165" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zh13u&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="180" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zh13u&theme=radical&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="180" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📂 Featured Projects
+
+### 🌐 **Personal Website & Blog**
+> **Repository:** [zh13u.github.io](https://github.com/zh13u/zh13u.github.io)  
+> A modern blog + portfolio built with **Jekyll**, featuring a personal blog system, project showcase, and custom theming. Deployed via GitHub Pages with responsive design.
+> 
+> **Tech Stack:** HTML, SCSS, JavaScript, Jekyll
+
+### 🛡️ **CVE-2021-4034 (PwnKit) Analysis**
+> **Repository:** [TTCS-report](https://github.com/zh13u/TTCS-report)  
+> Educational simulation of the PwnKit exploit demonstrating Linux privilege escalation vulnerabilities. Includes technical analysis, exploitation steps, and mitigation strategies.
+> 
+> **Tech Stack:** C, Markdown, Linux Security
+
+### ♻️ **Blockchain Food Traceability System**
+> **Repository:** [NMCNPM](https://github.com/zh13u/NMCNPM)  
+> A comprehensive system leveraging blockchain technology for transparent food supply chain tracking. Features frontend, backend, and blockchain modules for immutable product origin verification.
+> 
+> **Tech Stack:** React, TypeScript, Python, Blockchain
+
+### 🤖 **Chess AI Engine**
+> **Repository:** [ChessBotAI](https://github.com/stepToBecomeGigachad/ChessBotAI)  
+> Python-based chess AI with advanced move analysis, board evaluation algorithms, and strategic gameplay. Features modular design with separate AI logic, move engine, and game interface.
+> 
+> **Tech Stack:** Python, OOP, Game AI
+
+### 📘 **Data Structures & Algorithms Project**
+> **Repository:** [CTDL_GT](https://github.com/zh13u/CTDL_GT)  
+> Comprehensive C++ implementation of fundamental data structures including linked lists, student management systems, and advanced sorting algorithms. Features CSV data handling and template systems.
+> 
+> **Tech Stack:** C++, Data Structures, File I/O
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+  <a href="mailto:lqhieu110604@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/quanghieula">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://zh13u.github.io">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white" alt="Website"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
+**"Security is not a product, but a process"** 🔐
+
+*From [zh13u](https://github.com/zh13u) with ❤️*
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zh13u/zh13u/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zh13u/zh13u/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zh13u/zh13u/output/github-contribution-grid-snake.svg">
+</picture>
