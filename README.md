@@ -268,14 +268,14 @@
 
 ## 🎓 Learning Platforms
 
-- 🏴‍☠️ [**TryHackMe**](https://tryhackme.com) - Interactive cybersecurity training
-- 🧊 [**HackTheBox**](https://www.hackthebox.com) - Penetration testing labs
-- 🌙 [**Dreamhack**](https://dreamhack.io) - Security challenges and education
-- 🚩 [**PicoCTF**](https://picoctf.org) - Capture The Flag competitions
-- 🍪 [**CookieArena**](https://cookiearena.org) - Vietnamese security platform
-- 🌿 [**RootMe**](https://www.root-me.org) - Hacking and security challenges
-- 🕸️ [**WebHacking**](https://webhacking.kr) - Web security challenges
-- ⏰ [**CTFTime**](https://ctftime.org) - CTF events and team rankings
+- [**TryHackMe**](https://tryhackme.com) - Interactive cybersecurity training
+- [**HackTheBox**](https://www.hackthebox.com) - Penetration testing labs
+- [**Dreamhack**](https://dreamhack.io) - Security challenges and education
+- [**PicoCTF**](https://picoctf.org) - Capture The Flag competitions
+- [**CookieArena**](https://cookiearena.org) - Vietnamese security platform
+- [**RootMe**](https://www.root-me.org) - Hacking and security challenges
+- [**WebHacking**](https://webhacking.kr) - Web security challenges
+- [**CTFTime**](https://ctftime.org) - CTF events and team rankings
 
 ---
 
