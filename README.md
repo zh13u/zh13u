@@ -140,6 +140,12 @@
 > &nbsp;&nbsp;&nbsp;&nbsp;• Structured with `_layouts`, `_posts`, `_sass`, and deployed via **GitHub Pages**.  
 > &nbsp;&nbsp;&nbsp;&nbsp;• Main languages: HTML, SCSS, JavaScript.
 
+> #### 📘 CTDL_GT — Final Project  
+> &nbsp;&nbsp;&nbsp;&nbsp;A course project focused on **data structures and algorithms** using C++.  
+> &nbsp;&nbsp;&nbsp;&nbsp;• Implements common linked lists: `single`, `double`, and `circular`.  
+> &nbsp;&nbsp;&nbsp;&nbsp;• Includes student `management`, `search`, and `sorting` features.  
+> &nbsp;&nbsp;&nbsp;&nbsp;• Uses `.csv` for student data and `.txt` for form templates.  
+> &nbsp;&nbsp;&nbsp;&nbsp;• Final assignment collaboration with **6 contributors**.
 
 ## ⭐ Fun Facts
 
