@@ -134,11 +134,11 @@
 ## 📂 Notable Repositories
 
 
-> #### 🌐 Personal Website: [zh13u.github.io](https://zh13u.github.io)
-> &nbsp;&nbsp;&nbsp;&nbsp;• Built with HTML, CSS, JS  
-> &nbsp;&nbsp;&nbsp;&nbsp;• Hosted on GitHub Pages  
-> &nbsp;&nbsp;&nbsp;&nbsp;• Blogging + Portfolio
-
+> #### 🌐 Personal Website: [zh13u.github.io](https://zh13u.github.io)  
+> &nbsp;&nbsp;&nbsp;&nbsp;A `blog` + `portfolio` built with **Jekyll**, using **HTML/CSS/JS**.  
+> &nbsp;&nbsp;&nbsp;&nbsp;• Features a personal blog system, project showcase, and custom theming.  
+> &nbsp;&nbsp;&nbsp;&nbsp;• Structured with `_layouts`, `_posts`, `_sass`, and deployed via **GitHub Pages**.  
+> &nbsp;&nbsp;&nbsp;&nbsp;• Main languages: HTML, SCSS, JavaScript.
 
 
 ## ⭐ Fun Facts
