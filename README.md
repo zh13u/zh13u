@@ -8,21 +8,39 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Website&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
+</div><br>
+
+<div align="center">
+  
+  **"Security is not a product, but a process"** 🔐
+  
+  *Cybersecurity & Frontend Development Enthusiast*
+  
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img align="right" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-- 🎯 I'm a **Cybersecurity & Frontend Development Enthusiast**
-- 🔒 Passionate about protecting digital assets and building secure applications
-- 📚 Currently learning about **Network Security**, **Ethical Hacking**, and **Web Development**
-- 🤝 Looking to collaborate on security research and open-source projects
-- ⚡ Always practicing responsible disclosure
-- 🎮 Love solving CTFs and Hack challenges
-- 🧠 Obsessed with learning new tech every day
+🎯 **Cybersecurity & Frontend Development Enthusiast** passionate about protecting digital assets and building secure applications
+
+🔒 **Current Focus Areas:**
+- Network Security & Ethical Hacking
+- Web Development & Security Testing
+- Digital Forensics & Incident Response
+
+🤝 **Looking to collaborate on:**
+- Security research projects
+- Open-source security tools
+- Vulnerability disclosure programs
+
+⚡ **Daily Activities:**
+- Solving CTFs and security challenges
+- Building secure web applications
+- Learning cutting-edge technologies
+- Practicing responsible disclosure
 
 ---
 
@@ -288,18 +306,26 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Performance Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zh13u&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="160" alt="stats graph"/><br>
-  
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=zh13u&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="160" alt="stats graph"/><br><br>
+
+  <!-- Languages and Streak Side by Side -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zh13u&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=onedark&hide_border=false&order=2" height="170" alt="languages graph"/>
   <img src="https://streak-stats.demolab.com?user=zh13u&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"/>
+  
+  <!-- Trophy Section -->
+  <br><br>
   <img src="https://github-profile-trophy.vercel.app?username=zh13u&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
+
+  <!-- Activity Graph -->
+  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zh13u&radius=16&theme=monokai&area=true&order=5" height="300" alt="activity-graph graph"/>
 </div>
 
-
+---
 
 ## 📂 Featured Projects
 
@@ -307,45 +333,47 @@
 > **Repository:** [zh13u.github.io](https://github.com/zh13u/zh13u.github.io)  
 > A modern blog + portfolio built with **Jekyll**, featuring a personal blog system, project showcase, and custom theming. Deployed via GitHub Pages with responsive design.
 > 
-> **Tech Stack:** HTML, SCSS, JavaScript, Jekyll
+> **🔧 Tech Stack:** HTML, SCSS, JavaScript, Jekyll
 
 ### 🛡️ **CVE-2021-4034 (PwnKit) Analysis**
 > **Repository:** [TTCS-report](https://github.com/zh13u/TTCS-report)  
 > Educational simulation of the PwnKit exploit demonstrating Linux privilege escalation vulnerabilities. Includes technical analysis, exploitation steps, and mitigation strategies.
 > 
-> **Tech Stack:** C, Markdown, Linux Security
+> **🔧 Tech Stack:** C, Markdown, Linux Security
 
 ### ♻️ **Blockchain Food Traceability System**
 > **Repository:** [NMCNPM](https://github.com/zh13u/NMCNPM)  
 > A comprehensive system leveraging blockchain technology for transparent food supply chain tracking. Features frontend, backend, and blockchain modules for immutable product origin verification.
 > 
-> **Tech Stack:** React, TypeScript, Python, Blockchain
+> **🔧 Tech Stack:** React, TypeScript, Python, Blockchain
 
 ### 🤖 **Chess AI Engine**
 > **Repository:** [ChessBotAI](https://github.com/stepToBecomeGigachad/ChessBotAI)  
 > Python-based chess AI with advanced move analysis, board evaluation algorithms, and strategic gameplay. Features modular design with separate AI logic, move engine, and game interface.
 > 
-> **Tech Stack:** Python, OOP, Game AI
+> **🔧 Tech Stack:** Python, OOP, Game AI
 
 ### 📘 **Data Structures & Algorithms Project**
 > **Repository:** [CTDL_GT](https://github.com/zh13u/CTDL_GT)  
 > Comprehensive C++ implementation of fundamental data structures including linked lists, student management systems, and advanced sorting algorithms. Features CSV data handling and template systems.
 > 
-> **Tech Stack:** C++, Data Structures, File I/O
+> **🔧 Tech Stack:** C++, Data Structures, File I/O
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect & Collaborate
+
+### 🤝 Let's Build Something Secure Together!
 
 <div align="center">
   <a href="mailto:lqhieu110604@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" height="35"/>
   </a>
   <a href="https://www.linkedin.com/in/quanghieula">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" height="35"/>
   </a>
   <a href="https://zh13u.github.io">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Portfolio" height="35"/>
   </a>
 </div>
 
