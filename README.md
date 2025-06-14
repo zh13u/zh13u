@@ -291,16 +291,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zh13u&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh13u&layout=compact&theme=radical&hide_border=false&card_width=320&langs_count=8" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zh13u&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="160" alt="stats graph"/><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zh13u&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=onedark&hide_border=false&order=2" height="170" alt="languages graph"/>
+  <img src="https://streak-stats.demolab.com?user=zh13u&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"/>
+  <img src="https://github-profile-trophy.vercel.app?username=zh13u&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zh13u&radius=16&theme=monokai&area=true&order=5" height="300" alt="activity-graph graph"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zh13u&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="180" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=zh13u&theme=radical&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="180" alt="GitHub Trophies" />
-</div>
 
----
 
 ## 📂 Featured Projects
 
