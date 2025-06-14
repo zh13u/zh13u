@@ -9,7 +9,7 @@
 ### 💻 Programming:
 
 <p align="center">
-    <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['PHP','Java','Python','JavaScript','C++'],datasets:[{data:[1,1,1,1,1],backgroundColor:['%234F5D95','%23f89820','%233572A5','%23f7df1e','%2300599C']}]} ,options:{plugins:{legend:{display:true,position:'right'},datalabels:{display:false}}}}" width="400"/>
+    <img src="./images/chart.png" width="400" alt="Programming Languages Pie Chart"/>
 </p>
 
 ### 🔒 Security Tools: Wireshark, Nmap, Metasploit, Burp Suite
