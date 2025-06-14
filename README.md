@@ -10,7 +10,7 @@
 - 🔒 Security Tools: Wireshark, Nmap, Metasploit, Burp Suite
 - 💾 Operating Systems: Linux (Ubuntu, Kali Linux), Windows
 - 🎯 Learning Platforms:
-  - [TryHackMe](https://tryhackme.com)
+  - <a href="https://tryhackme.com" target="_blank">TryHackMe</a>
   - [HackTheBox](https://www.hackthebox.com)
   - [Dreamhack](https://dreamhack.io)
   - [PicoCTF](https://picoctf.org)
