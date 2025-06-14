@@ -167,6 +167,14 @@
 > 
 > &nbsp;&nbsp;&nbsp;&nbsp;🔗 **Repository:** [github.com/zh13u/TTCS-report](https://github.com/zh13u/TTCS-report)
 
+> #### ♻️ Food Traceability System – Product Origin Tracking Platform  
+> &nbsp;&nbsp;&nbsp;&nbsp;A system that leverages **Blockchain technology** to track and verify food supply chain data.  
+> &nbsp;&nbsp;&nbsp;&nbsp;• Composed of three modules: `frontend`, `backend`, and `blockchain`.  
+> &nbsp;&nbsp;&nbsp;&nbsp;• Built with **React + TypeScript** for the frontend and **Python** for the backend.  
+> &nbsp;&nbsp;&nbsp;&nbsp;• Enables transparent and immutable tracking of product origin and movement.
+> 
+> &nbsp;&nbsp;&nbsp;&nbsp;🔗 **Repository:** [github.com/zh13u/NMCNPM](https://github.com/zh13u/NMCNPM)
+
 
 ## ⭐ Fun Facts
 
