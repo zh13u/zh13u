@@ -377,14 +377,16 @@
   </a>
 </div>
 
+### 🔐 Security-First Development | 🤖 AI-Powered Solutions | 🛡️ Ethical Hacking
+
 ---
 
 <div align="center">
   
-**"Security is not a product, but a process"** 🔐
-
-*From [zh13u](https://github.com/zh13u) with ❤️*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Stay%20Secure!&fontSize=40&fontColor=fff&animation=twinkling"/>
+  
+  *From [zh13u](https://github.com/zh13u) with 🔐 & ❤️*
+  
 </div>
 
 <picture>
