@@ -10,7 +10,7 @@
 - 🔒 Security Tools: Wireshark, Nmap, Metasploit, Burp Suite
 - 💾 Operating Systems: Linux (Ubuntu, Kali Linux), Windows
 - 🎯 Learning Platforms:
-  - <a href="https://tryhackme.com" target="_blank">TryHackMe</a>
+  - [TryHackMe](https://tryhackme.com)
   - [HackTheBox](https://www.hackthebox.com)
   - [Dreamhack](https://dreamhack.io)
   - [PicoCTF](https://picoctf.org)
@@ -24,10 +24,10 @@
   - Web Development
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zh13u&show_icons=true&theme=radical)
 
 ## 🌟 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zh13u&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 - 📧 Email: [Your email]
