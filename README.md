@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm z13u
-<img src="svg/blink-cursor.svg" width="20" height="24" />
+![Typing Animation](./svg/blink-cursor.svg)
 ## 🚀 About Me
 - 🔭 I'm a Cybersecurity Enthusiast
 - 🌱 Currently learning about Network Security and Ethical Hacking
