@@ -16,33 +16,34 @@
 
 ### 🔒 Security Tools: 
 
-* **Wireshark** 
-* **Nmap**
-* **Burp Suite**
+* Wireshark
+* Nmap
+* Burp Suite
+* Tool-Pentesting in Kali Linux
 * And more...
 
 ### 💾 Operating Systems: 
 
-* **Linux (Ubuntu, Kali Linux)** 
-* **Windows**
+* Linux (Ubuntu, Kali Linux)
+* Windows
 
 ### 🎯 Learning Platforms:
 
-* [**TryHackMe**](https://tryhackme.com)
-* [**HackTheBox**](https://www.hackthebox.com)
-* [**Dreamhack**](https://dreamhack.io)
-* [**PicoCTF**](https://picoctf.org)
-* [**CookieArena**](https://cookiearena.org)
-* [**RootMe**](https://www.root-me.org)
-* [**WebHacking**](https://webhacking.kr)
-* [**CTFTime**](https://ctftime.org/)
+* [TryHackMe](https://tryhackme.com)
+* [HackTheBox](https://www.hackthebox.com)
+* [Dreamhack](https://dreamhack.io)
+* [PicoCTF](https://picoctf.org)
+* [CookieArena](https://cookiearena.org)
+* [RootMe](https://www.root-me.org)
+* [WebHacking](https://webhacking.kr)
+* [CTFTime](https://ctftime.org/)
 
 ### 🔍 Areas of Interest:
 
-* **Web Application Security**
-* **Penetration Testing**
-* **Digital Forensics**
-* **Web Development**
+* Web Application Security
+* Penetration Testing
+* Digital Forensics
+* Web Development
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zh13u&show_icons=true&theme=radical)
@@ -52,9 +53,9 @@
 
 ## 📫 How to Reach Me
 
-* 📧 **Email: lqhieu110604@gmail.com**
-* 💼 **LinkedIn: [quanghieula](https://www.linkedin.com/in/quanghieula)**
-* 🌐 **Website: [zh13u.github.io](https://zh13u.github.io)**
+* 📧 Email: lqhieu110604@gmail.com
+* 💼 LinkedIn: [quanghieula](https://www.linkedin.com/in/quanghieula)
+* 🌐 Website: [zh13u.github.io](https://zh13u.github.io)
 
 ## 🚀 Repositories
 - 🌐 Personal Website: [zh13u.github.io](https://zh13u.github.io)
@@ -62,10 +63,14 @@
   - Deployed on GitHub Pages
   - Features: [Add your website features here]
 
+<img src="./svg/timeline.svg" width="220" alt="Repositories Timeline"/>
+
 ## ⭐ Fun Facts
 - Always practicing responsible disclosure
 - Love solving CTF challenges
 - Contributing to security research
+
+
 
 ---
  From [zh13u](https://github.com/zh13u)
