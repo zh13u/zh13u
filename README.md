@@ -6,10 +6,10 @@
 - 🤝 Looking to collaborate on security research and projects
 
 ## 🛠️ Tech Stack & Security Tools
-- 💻 Programming: PHP, Java, Python, JavaScript
-- 🔒 Security Tools: Wireshark, Nmap, Metasploit, Burp Suite
-- 💾 Operating Systems: Linux (Ubuntu, Kali Linux), Windows
-- 🎯 Learning Platforms:
+### 💻 Programming: PHP, Java, Python, JavaScript
+### 🔒 Security Tools: Wireshark, Nmap, Metasploit, Burp Suite
+### 💾 Operating Systems: Linux (Ubuntu, Kali Linux), Windows
+### 🎯 Learning Platforms:
   - [TryHackMe](https://tryhackme.com)
   - [HackTheBox](https://www.hackthebox.com)
   - [Dreamhack](https://dreamhack.io)
@@ -17,7 +17,7 @@
   - [CookieArena](https://cookiearena.org)
   - [RootMe](https://www.root-me.org)
   - [WebHacking](https://webhacking.kr)
-- 🔍 Areas of Interest:
+### 🔍 Areas of Interest:
   - Web Application Security
   - Penetration Testing
   - Digital Forensics
@@ -34,7 +34,7 @@
 - 💼 LinkedIn: [quanghieula](https://www.linkedin.com/in/quanghieula)
 - 🌐 Website: [zh13u.github.io](https://zh13u.github.io)
 
-## 🚀 Projects
+## 🚀 Repositories
 - 🌐 Personal Website: [zh13u.github.io](https://zh13u.github.io)
   - Built with HTML, CSS, JavaScript
   - Deployed on GitHub Pages
@@ -46,4 +46,4 @@
 - Contributing to security research
 
 ---
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [zh13u](https://github.com/zh13u)
