@@ -508,6 +508,8 @@
 
 ---
 
+![snake gif](https://github.com/zh13u/zh13u/blob/output/github-snake-dark.svg)
+
   *From [zh13u](https://github.com/zh13u) with 🔐 & ❤️*
   
 </div>
