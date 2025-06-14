@@ -29,47 +29,240 @@
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Programming Languages
-| Icon | Language | Purpose |
-|------|----------|---------|
-| <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo" /> | **C** | System Programming & Low-level Development |
-| <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cpp logo" /> | **C++** | Object-oriented Programming & Performance |
-| <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" /> | **Python** | Automation, Security Scripts & Data Analysis |
-| <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript logo" /> | **JavaScript** | Frontend Development & Web Interactions |
-| <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo" /> | **TypeScript** | Type-safe JavaScript for Large Applications |
-| <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" /> | **Java** | Enterprise Applications & Cross-platform Development |
-| <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo" /> | **PHP** | Server-side Web Development |
+<div align="center">
+  <table>
+    <tr>
+      <th align="center" width="100">Icon</th>
+      <th align="center" width="150">Language</th>
+      <th align="center">Purpose</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
+      </td>
+      <td align="center"><strong>C</strong></td>
+      <td>System Programming & Low-level Development</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
+      </td>
+      <td align="center"><strong>C++</strong></td>
+      <td>Object-oriented Programming & Performance</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+      </td>
+      <td align="center"><strong>Python</strong></td>
+      <td>Automation, Security Scripts & Data Analysis</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" />
+      </td>
+      <td align="center"><strong>JavaScript</strong></td>
+      <td>Frontend Development & Web Interactions</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
+      </td>
+      <td align="center"><strong>TypeScript</strong></td>
+      <td>Type-safe JavaScript for Large Applications</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+      </td>
+      <td align="center"><strong>Java</strong></td>
+      <td>Enterprise Applications & Cross-platform Development</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
+      </td>
+      <td align="center"><strong>PHP</strong></td>
+      <td>Server-side Web Development</td>
+    </tr>
+  </table>
+</div>
 
 ### 🚀 Frameworks & Libraries
-| Icon | Technology | Purpose |
-|------|------------|---------|
-| <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" /> | **React** | Component-based UI Development |
-| <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo" /> | **Next.js** | Full-stack React Applications with SSR |
-| <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" /> | **Node.js** | Server-side JavaScript Runtime |
-| <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" /> | **Express.js** | Minimal Web Application Framework |
-| <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo" /> | **Django** | High-level Python Web Framework |
-| <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo" /> | **Flask** | Lightweight Python Web Framework |
-| <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo" /> | **Spring** | Enterprise Java Application Framework |
-| <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo" /> | **Tailwind CSS** | Utility-first CSS Framework |
 
+<div align="center">
+  <table>
+    <tr>
+      <th align="center" width="100">Icon</th>
+      <th align="center" width="150">Technology</th>
+      <th align="center">Purpose</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+      </td>
+      <td align="center"><strong>React</strong></td>
+      <td>Component-based UI Development</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
+      </td>
+      <td align="center"><strong>Next.js</strong></td>
+      <td>Full-stack React Applications with SSR</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+      </td>
+      <td align="center"><strong>Node.js</strong></td>
+      <td>Server-side JavaScript Runtime</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
+      </td>
+      <td align="center"><strong>Express.js</strong></td>
+      <td>Minimal Web Application Framework</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
+      </td>
+      <td align="center"><strong>Django</strong></td>
+      <td>High-level Python Web Framework</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
+      </td>
+      <td align="center"><strong>Flask</strong></td>
+      <td>Lightweight Python Web Framework</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
+      </td>
+      <td align="center"><strong>Spring</strong></td>
+      <td>Enterprise Java Application Framework</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
+      </td>
+      <td align="center"><strong>Tailwind CSS</strong></td>
+      <td>Utility-first CSS Framework</td>
+    </tr>
+  </table>
+</div>
+  
 ### 🐧 DevOps & Database
-| Icon | Technology | Purpose |
-|------|------------|---------|
-| <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo" /> | **Linux** | Primary Operating System for Development |
-| <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" /> | **Docker** | Application Containerization & Deployment |
-| <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" /> | **Git** | Distributed Version Control System |
-| <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="nginx logo" /> | **Nginx** | High-performance Web Server & Reverse Proxy |
-| <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" /> | **MongoDB** | Document-oriented NoSQL Database |
-| <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" /> | **MySQL** | Open-source Relational Database |
-| <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo" /> | **SQLite** | Embedded Relational Database |
-| <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo" /> | **GraphQL** | Query Language for APIs |
+
+<div align="center">
+  <table>
+    <tr>
+      <th align="center" width="100">Icon</th>
+      <th align="center" width="150">Technology</th>
+      <th align="center">Purpose</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+      </td>
+      <td align="center"><strong>Linux</strong></td>
+      <td>Primary Operating System for Development</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+      </td>
+      <td align="center"><strong>Docker</strong></td>
+      <td>Application Containerization & Deployment</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+      </td>
+      <td align="center"><strong>Git</strong></td>
+      <td>Distributed Version Control System</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" />
+      </td>
+      <td align="center"><strong>Nginx</strong></td>
+      <td>High-performance Web Server & Reverse Proxy</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+      </td>
+      <td align="center"><strong>MongoDB</strong></td>
+      <td>Document-oriented NoSQL Database</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+      </td>
+      <td align="center"><strong>MySQL</strong></td>
+      <td>Open-source Relational Database</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
+      </td>
+      <td align="center"><strong>SQLite</strong></td>
+      <td>Embedded Relational Database</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo" />
+      </td>
+      <td align="center"><strong>GraphQL</strong></td>
+      <td>Query Language for APIs</td>
+    </tr>
+  </table>
+</div>
 
 ### 🔐 Security Tools
-| Icon | Tool | Purpose |
-|------|------|---------|
-| <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="30"/> | **Wireshark** | Network Protocol Analyzer |
-| <img src="https://portswigger.net/public/burp-suite-professional-logo-1200w.png" alt="Burp Suite" width="30"/> | **Burp Suite** | Web Application Security Testing |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="30"/> | **Kali Linux** | Penetration Testing OS |
-| <img src="https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png" alt="SQLMap" width="30"/> | **SQLMap** | SQL Injection Testing |
+
+<div align="center">
+  <table>
+    <tr>
+      <th align="center" width="100">Icon</th>
+      <th align="center" width="150">Tool</th>
+      <th align="center">Purpose</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40"/>
+      </td>
+      <td align="center"><strong>Wireshark</strong></td>
+      <td>Network Protocol Analyzer</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://portswigger.net/public/burp-suite-professional-logo-1200w.png" alt="Burp Suite" width="40"/>
+      </td>
+      <td align="center"><strong>Burp Suite</strong></td>
+      <td>Web Application Security Testing</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40"/>
+      </td>
+      <td align="center"><strong>Kali Linux</strong></td>
+      <td>Penetration Testing OS</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png" alt="SQLMap" width="40"/>
+      </td>
+      <td align="center"><strong>SQLMap</strong></td>
+      <td>SQL Injection Testing</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
