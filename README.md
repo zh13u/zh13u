@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm z13u<img src="./svg/blink-cursor.svg" alt="cursor" style="display: inline;">
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm z13u<img src="./svg/blink-cursor.svg" alt="cursor" style="display: inline; vertical-align: baseline; margin-left: 2px;">
 ## 🚀 About Me
 - 🔭 I'm a Cybersecurity Enthusiast
 - 🌱 Currently learning about Network Security and Ethical Hacking
