@@ -29,91 +29,60 @@
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Programming Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
-</div>
+| Icon | Language | Purpose |
+|------|----------|---------|
+| <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo" /> | **C** | System Programming & Low-level Development |
+| <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cpp logo" /> | **C++** | Object-oriented Programming & Performance |
+| <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" /> | **Python** | Automation, Security Scripts & Data Analysis |
+| <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript logo" /> | **JavaScript** | Frontend Development & Web Interactions |
+| <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo" /> | **TypeScript** | Type-safe JavaScript for Large Applications |
+| <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" /> | **Java** | Enterprise Applications & Cross-platform Development |
+| <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo" /> | **PHP** | Server-side Web Development |
 
 ### 🚀 Frameworks & Libraries
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwind logo"  />
-</div>
+| Icon | Technology | Purpose |
+|------|------------|---------|
+| <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" /> | **React** | Component-based UI Development |
+| <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo" /> | **Next.js** | Full-stack React Applications with SSR |
+| <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" /> | **Node.js** | Server-side JavaScript Runtime |
+| <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" /> | **Express.js** | Minimal Web Application Framework |
+| <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo" /> | **Django** | High-level Python Web Framework |
+| <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo" /> | **Flask** | Lightweight Python Web Framework |
+| <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo" /> | **Spring** | Enterprise Java Application Framework |
+| <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo" /> | **Tailwind CSS** | Utility-first CSS Framework |
 
 ### 🐧 DevOps & Database
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="graphql logo"  />
-</div>
+| Icon | Technology | Purpose |
+|------|------------|---------|
+| <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo" /> | **Linux** | Primary Operating System for Development |
+| <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" /> | **Docker** | Application Containerization & Deployment |
+| <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" /> | **Git** | Distributed Version Control System |
+| <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="nginx logo" /> | **Nginx** | High-performance Web Server & Reverse Proxy |
+| <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" /> | **MongoDB** | Document-oriented NoSQL Database |
+| <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" /> | **MySQL** | Open-source Relational Database |
+| <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo" /> | **SQLite** | Embedded Relational Database |
+| <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo" /> | **GraphQL** | Query Language for APIs |
 
 ### 🔐 Security Tools
-<div align="center">
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="50"/>
-  </a>
-  <img width="12" />
-  <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://portswigger.net/public/burp-suite-professional-logo-1200w.png" alt="Burp Suite" width="50"/>
-  </a>
-  <img width="12" />
-  <a href="https://www.kali.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="50"/>
-  </a>
-  <img width="12" />
-  <a href="https://sqlmap.org/" target="_blank">
-    <img src="https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png" alt="SQLMap" width="50"/>
-  </a>
-</div>
+| Icon | Tool | Purpose |
+|------|------|---------|
+| <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="30"/> | **Wireshark** | Network Protocol Analyzer |
+| <img src="https://portswigger.net/public/burp-suite-professional-logo-1200w.png" alt="Burp Suite" width="30"/> | **Burp Suite** | Web Application Security Testing |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="30"/> | **Kali Linux** | Penetration Testing OS |
+| <img src="https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png" alt="SQLMap" width="30"/> | **SQLMap** | SQL Injection Testing |
 
 ---
 
 ## 🎓 Learning Platforms
 
-- [**TryHackMe**](https://tryhackme.com) - Interactive cybersecurity training
-- [**HackTheBox**](https://www.hackthebox.com) - Penetration testing labs
-- [**Dreamhack**](https://dreamhack.io) - Security challenges and education
-- [**PicoCTF**](https://picoctf.org) - Capture The Flag competitions
-- [**CookieArena**](https://cookiearena.org) - Vietnamese security platform
-- [**RootMe**](https://www.root-me.org) - Hacking and security challenges
-- [**WebHacking**](https://webhacking.kr) - Web security challenges
-- [**CTFTime**](https://ctftime.org) - CTF events and team rankings
+- 🏴‍☠️ [**TryHackMe**](https://tryhackme.com) - Interactive cybersecurity training
+- 🧊 [**HackTheBox**](https://www.hackthebox.com) - Penetration testing labs
+- 🌙 [**Dreamhack**](https://dreamhack.io) - Security challenges and education
+- 🚩 [**PicoCTF**](https://picoctf.org) - Capture The Flag competitions
+- 🍪 [**CookieArena**](https://cookiearena.org) - Vietnamese security platform
+- 🌿 [**RootMe**](https://www.root-me.org) - Hacking and security challenges
+- 🕸️ [**WebHacking**](https://webhacking.kr) - Web security challenges
+- ⏰ [**CTFTime**](https://ctftime.org) - CTF events and team rankings
 
 ---
 
