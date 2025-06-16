@@ -146,7 +146,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 🎯 **Cybersecurity & Frontend Development Enthusiast** passionate about protecting digital assets and building secure applications
 
